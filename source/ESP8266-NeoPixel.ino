@@ -3,7 +3,7 @@
 #include <ESP8266WebServer.h>
 
 ESP8266WebServer server(80);
-int NeoPIN = 14;
+int NeoPIN = 14; // D5 on NodeMCU Lolin V3
 int NUM_LEDS = 64;
 Adafruit_NeoPixel matrix = Adafruit_NeoPixel(NUM_LEDS, NeoPIN, NEO_GRB + NEO_KHZ800);
 //matrix.setBrightness(51);
