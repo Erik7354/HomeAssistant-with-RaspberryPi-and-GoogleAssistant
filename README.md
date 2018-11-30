@@ -2,9 +2,9 @@
 This Repo is basically about the Google Assistant running on my Raspberry Pi 3B, controlling NeoPixel and hopefully doing more things in the future.
 
 
--> you can find the code for the Rpi3 and the NodeMCU in the source folder
+-> you can find the code for the Rpi3 and the NodeMCU in the "source" folder
 -> PixelArt contains some example images with a 8x8 resolution for testing
--> colArrows is a collection of images which are destined to be used for an animation, the json contains informations for that
+-> "colArrows" is a collection of images which are destined to be used for an animation, the json contains informations for that
 
 
 abridged goals/journey:
@@ -22,4 +22,4 @@ physical components:
 - an old 8W speaker
 - an amplifier
 - 5V 7.5A power adapter
-- cables, solder and a case for putting everthing in
+- cables, solder and a case for putting everything in
